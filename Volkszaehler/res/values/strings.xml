@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Volkszaehler</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_graph">GraphActivity</string>
+    <string name="title_activity_editor">EditorActivity</string>
+    <string name="title_activity_selection">SelectionActivity</string>
+    <string name="title_activity_table">TableActivity</string>
+    <string name="txv_server_short">Server</string>
+    <string name="txv_channel">Channel</string>
+    <string name="txv_title">Title</string>
+    <string name="txv_color">Color</string>
+    <string name="txv_type">Type</string>
+    <string name="txv_resolution">Resolution</string>
+    <string name="etx_server">demo.volkszaehler.org</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_return">Return</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_fetch">Fetch Channels</string>
+    <string name="txv_channels">Channels</string>
+    <string name="btn_select">View selected Channels</string>
+    <string name="txv_start_time">Choose start time</string>
+    <string name="txv_end_time">Choose end time</string>
+    <string name="btn_set">Set</string>
+    <string name="btn_show_table">Show Table</string>
+    <string name="btn_draw_graph">Draw Graph</string>
+    <string name="btn_edit_channel">Edit Channel</string>
+    <string name="btn_make_channel">Make Channel</string>
+    <string name="txv_server">Server Name / IP Address</string>
+    <string name="txv_option">View and Edit Options</string>
+    <string name="menu_settings">Show current Settings</string>
+
+</resources>

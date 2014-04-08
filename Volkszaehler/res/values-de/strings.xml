@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+   	<string name="app_name">Volkszähler</string>
+    <string name="title_activity_graph">GraphActivity</string>
+    <string name="title_activity_editor">EditorActivity</string>
+    <string name="title_activity_selection">SelectionActivity</string>
+    <string name="title_activity_table">TableActivity</string>
+    <string name="txv_server_short">Server</string>
+    <string name="txv_channel">Kanal</string>
+    <string name="txv_title">Titel</string>
+    <string name="txv_color">Farbe</string>
+    <string name="txv_type">Typ</string>
+    <string name="txv_resolution">Aufloesung</string>
+    <string name="etx_server">demo.volkszaehler.org</string>
+    <string name="btn_reset">Zurücksetzen</string>
+    <string name="btn_delete">Löschen</string>
+    <string name="btn_return">Zurück</string>
+    <string name="btn_save">Speichern</string>
+    <string name="btn_fetch">Kanäle laden</string>
+    <string name="txv_channels">Kanäle</string>
+    <string name="btn_select">Ausgewählte Kanäle</string>
+    <string name="txv_start_time">Startzeit auswählen</string>
+    <string name="txv_end_time">Endzeit auswählen</string>
+    <string name="btn_set">Einstellen</string>
+    <string name="btn_show_table">Tabellenansicht</string>
+    <string name="btn_draw_graph">Graphische Ansicht</string>
+    <string name="btn_edit_channel">Kanal bearbeiten</string>
+    <string name="btn_make_channel">Kanal erstellen</string>
+    <string name="txv_server">Servername / IP Adresse</string>
+    <string name="txv_option">Ansichts und bearbeitungs Optionen</string>
+    <string name="menu_settings">Aktuelle Einstellungen anzeigen</string>
+    
+</resources>
