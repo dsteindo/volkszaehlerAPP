@@ -47,14 +47,16 @@ public class GraphActivity extends Activity {
 		
 		for (VlzChannel vlzChannel : channels) {
 			if (vlzChannel != null && vlzChannel.hasValues()) {
-				valid.add(vlzChannel);
+				if (vlzChannel.getTuples().size() > 1) {
+					valid.add(vlzChannel);
+				}
 			}
 		}
 		
 		if(valid.size() > 0) {
 			generateGraph(valid);
 		} else {
-			Toast.makeText(this, "No Values", Toast.LENGTH_LONG).show();
+			Toast.makeText(this, "No enough Values", Toast.LENGTH_LONG).show();
 		}
 	}
 
